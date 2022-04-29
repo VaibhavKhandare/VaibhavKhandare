@@ -1,16 +1,65 @@
-### Hi there 👋
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**VaibhavKhandare/VaibhavKhandare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/VaibhavKhandare)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div size='20px'> Hi! My name is Vaibhav Khandare. Thank You for taking the time to view my GitHub Profile :smile:
+</div>
+
+<h2> About Me
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working as SDE and a Part time Trader.
+ 
+- 🌱 I’m currently learning Unreal Engine and Advanced MERN Stack.
+ 
+- 👯 I’m looking to collaborate with different People.
+ 
+- 💬 Ask me about Sql, Python, Data Science, Trading and Investments, MERN Stack, C++
+ 
+- ⚡ Fun fact: All People are biased in some way
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+  <div>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+
+<a  > <img width ='50px' src ='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png'> </a>    
+<a  > <img width ='32px' src ='https://img.icons8.com/color/480/tensorflow.png'> </a>
+<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>
+
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png'> </a>
+<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png'> </a>
+</div>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<!-- <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  -->
+<!-- <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
+<!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
+<a href = 'https://www.github.com/VaibhavKhandare'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+ 
+<br>
+<br>
+  <br>
+ 
+<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlphaDeocodeX&theme=tokyonight)](https://github.com/VaibhavKhandare) -->
+
+| ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
