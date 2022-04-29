@@ -1,12 +1,10 @@
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Heyy < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/VaibhavKhandare)
-
-<div size='20px'> Hi! My name is Vaibhav Khandare. Thank You for taking the time to view my GitHub Profile :smile:
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare&left_color=lightseagreen&right_color=teal)
+[![Github](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare&left_color=dodgerblue&right_color=navy)](https://github.com/VaibhavKhandare)
+<div size='20px'> Its <b>Vaibhav Khandare</b>. Hope you like the account :wink: See you soon.:innocent:
 </div>
 
 <h2> About Me
