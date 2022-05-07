@@ -1,3 +1,14 @@
+<p align="center">
+    <a href="#Home">Home</a>
+    ·
+    <a href="#Skills">Skills</a>
+    ·
+    <a href="#About">About</a>
+ ·
+    <a href="#Stats">Stats</a>
+  </p>
+
+<br id="Home"/>
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
 <h1 > <span style="font-size:100px">Heyy < Devs/ >(</span><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
@@ -20,7 +31,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <h3> connect = (&nbsp; <a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;) => {<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">}</h3>
@@ -28,8 +38,9 @@
 <br/>
 <br/>
 <br/>
+<br id="Skills"/>
 
-  <h1> <span>Skills </span> = [
+  <h1 > <span>Skills </span> = [
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>,&nbsp;
@@ -45,8 +56,9 @@
 </h1>
  <br/>
  <br/>
+<br id="About"/>
 
-<h1> About Me <h4>
+<h1 > About Me <h4>
 🔭 I’m currently working as SDE in Gocomet. </h4><h4>
 🌱 I’m currently gaining knowledege of Next.js, Redux and Rails. </h4><h4>
 👯 I’m thriving to build good contacts and mutually learn from them. </h4><h4>
@@ -54,10 +66,10 @@
 ⚡ Fun fact: Hot water freeze faster than cold water
  </h4> <h1>
 
+<br id="Stats"/>
 
+ <h1 > Stats </h1>
 
- <h1> Stats </h1>
- 
 <!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=dracula)](https://github.com/VaibhavKhandare) -->
 
 | ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=vue) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
