@@ -11,7 +11,7 @@
 <br id="Home"/>
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
-<h1 > <span style="font-size:100px">Heyy < Devs/ >(</span><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
+<h1 > <span style="font-size:100px">Hey < Devs/ >(</span><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
 
 <br/>
 <br/>
@@ -19,7 +19,8 @@
  
  
  
- <h2>Its, Vaibhav Khandare <img src = "https://user-images.githubusercontent.com/56597655/167243475-22b8e745-02c7-4425-9378-0565966e9f9e.png" width = 25px>
+ <h2> Its, Vaibhav Khandare <img src = "https://user-images.githubusercontent.com/56597655/167245731-9e66b0c6-48e0-469c-99d7-e9e00551b44f.png" width = 30px>
+
  </h2> 
  <h5>Hope you like the Profile :wink: See you soon.:innocent:
 </h5>
