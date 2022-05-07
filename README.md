@@ -58,11 +58,11 @@
 
  <h1> Stats </h1>
  
-<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=tokyonight)](https://github.com/VaibhavKhandare) -->
+<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=dracula)](https://github.com/VaibhavKhandare) -->
 
-| ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=tokyonight) |
+| ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=swift) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=flag-india) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
