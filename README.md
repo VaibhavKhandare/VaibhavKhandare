@@ -40,7 +40,7 @@
 <br/>
 <br id="Skills"/>
 
-  <h1 > <span>Skills </span> = [
+  <h1 > <span>Skills </span> = [&nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>,&nbsp;
@@ -51,7 +51,7 @@
 <a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>,&nbsp;
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>,&nbsp;
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>,&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 ]
 </h1>
  <br/>
