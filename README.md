@@ -1,55 +1,64 @@
-<h1> Heyy < Devs/ >() <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
+<h1 > <span style="font-size:100px">Heyy < Devs/ >(</span><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
+
+<br/>
+<br/>
+<br/>
+ 
+ 
+ 
+ <h2>Its, Vaibhav Khandare <img src = "https://user-images.githubusercontent.com/56597655/167243475-22b8e745-02c7-4425-9378-0565966e9f9e.png" width = 25px>
+ </h2> 
+ <h5>Hope you like the Profile :wink: See you soon.:innocent:
+</h5>
+ <p align= 'center'>
+  
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=VaibhavKhandare&left_color=lightseagreen&right_color=teal)
 [![Github](https://img.shields.io/github/followers/VaibhavKhandare?label=Followers&color=navy&labelColor=dodgerblue)](https://github.com/VaibhavKhandare)
- <div size='20px'> Its <b>Vaibhav Khandare</b>. Hope you like the account :wink: See you soon.:innocent:
-</div>
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<h2> About Me
+<h3> connect = (&nbsp; <a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+&nbsp;) => {<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">}</h3>
+ 
+<br/>
+<br/>
+<br/>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working as SDE in Gocomet.
- 
-- 🌱 I’m currently gaining knowledege of Next.js, Redux and Rails.
- 
-- 👯 I’m thriving to build good contacts and mutually learn from them.
- 
-- 💬 Can help you with Python, Data Science, MERN Stack, C++
- 
-- ⚡ Fun fact: Everyone got 24 hours
-
- <h2 style="justify-content:center !important; color:green !important"> <span style='margin-top:-10px'>Skills </span>  <img width:'10px' src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-  <div>
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>&nbsp;
-<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>&nbsp;
-<a  > <img width ='50px' src ='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png'> </a>    &nbsp;
-<a  > <img width ='32px' src ='https://img.icons8.com/color/480/tensorflow.png'> </a>&nbsp;&nbsp;
-<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>&nbsp;
-<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>&nbsp;
+  <h1> <span>Skills </span> = [
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>,&nbsp;
+<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>,&nbsp;
+<a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>,&nbsp;
+<a  > <img width ='50px' src ='https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://img.icons8.com/color/480/tensorflow.png'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>,&nbsp;
+<a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>,&nbsp;
 <a  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>&nbsp;
-<!-- <a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png'> </a> -->
-<!-- <a  > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png'> </a> -->
-</div>
+]
+</h1>
+ <br/>
+ <br/>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<!-- <a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  -->
-<!-- <a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  -->
-<!-- <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
-<a href = 'https://www.github.com/VaibhavKhandare'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<h1> About Me <h4>
+🔭 I’m currently working as SDE in Gocomet. </h4><h4>
+🌱 I’m currently gaining knowledege of Next.js, Redux and Rails. </h4><h4>
+👯 I’m thriving to build good contacts and mutually learn from them. </h4><h4>
+💬 Can help you with Python, Data Science, MERN Stack, C++ </h4><h4>
+⚡ Fun fact: Hot water freeze faster than cold water
+ </h4> <h1>
+
+
+
+ <h1> Stats </h1>
  
-<br>
-<br>
-  <br>
- 
-<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlphaDeocodeX&theme=tokyonight)](https://github.com/VaibhavKhandare) -->
+<!-- [![Vaibhav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaibhavKhandare&theme=tokyonight)](https://github.com/VaibhavKhandare) -->
 
 | ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=tokyonight) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=tokyonight) |
 | --- | --- |
