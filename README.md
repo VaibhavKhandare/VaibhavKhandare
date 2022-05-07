@@ -64,7 +64,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite)
 
 
 <br>
