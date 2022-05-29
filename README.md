@@ -11,8 +11,7 @@
 <br id="Home"/>
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
-<h1 > &nbsp; Hey <Devs/ > (<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
-
+<h1 > <span style="font-size:100px">< Devs Greetings={</span><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>} /></h1>
 <br/>
 <br/>
 <br/>
@@ -22,7 +21,7 @@
  <h2> Its, Vaibhav Khandare <img src = "https://user-images.githubusercontent.com/56597655/167245731-9e66b0c6-48e0-469c-99d7-e9e00551b44f.png" width = 30px>
 
  </h2> 
- <h5>Hope you like the Profile :wink: See you soon.:innocent:
+ <h5>Hope you like the Profile :wink: See you soon.:innocent: !important
 </h5>
  <p align= 'center'>
   
@@ -33,15 +32,15 @@
 <br/>
 <br/>
 
-<h3> const Connect = (&nbsp; <a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-&nbsp;) => {<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">}</h3>
+<h3> const Connect = &nbsp; <a href = 'https://www.linkedin.com/in/vaibhav-khandare-117513196'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+&nbsp; => <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
  
 <br/>
 <br/>
 <br/>
 <br id="Skills"/>
 
-  <h1 > <span>Skills </span> = [&nbsp;
+  <h1 > var <span>Skills </span> = [&nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>,&nbsp;
 <a > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>,&nbsp;
