@@ -75,8 +75,13 @@
 | ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&theme=vue) | ![Vaibhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKhandare&theme=buefy) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKhandare&theme=vue) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=VaibhavKhandare&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=buefy) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite)
-
-
 <br>
+<br>
+<br>
+
+<h1 > <span style="font-size:100px"></span><img src='https://i.pinimg.com/originals/a3/17/08/a317085b479e7cdff35a3c69f0d57b02.jpg' width="80px"> Lets Have Caffeine Rush and Build Phenomenals Things </h1>    
+<br>
+<br>
+
+
+
