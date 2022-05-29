@@ -11,7 +11,7 @@
 <br id="Home"/>
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/56597655/167241072-155428db-d1f7-4424-96e0-2ac3396f1b4b.png" />
 
-<h1 > <Hey Devs/ > (<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
+<h1 > &nbsp; Hey <Devs/ > (<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>)</h1>
 
 <br/>
 <br/>
