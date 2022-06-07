@@ -58,8 +58,9 @@
  <br/>
 <br id="About"/>
 
-<h1 > About Me <h4>
-🔭 I’m currently working as SDE in Gocomet. </h4><h4>
+<h1 > About Me 
+ <h4>
+🔭 I’m Studying in IIT Gandhinagar and working as SDE in Gocomet.</h4>   <h4>
 🌱 I’m currently gaining knowledege of Next.js, Redux and Rails. </h4><h4>
 👯 I’m thriving to build good contacts and mutually learn from them. </h4><h4>
 💬 Can help you with Python, Data Science, MERN Stack, C++ </h4><h4>
